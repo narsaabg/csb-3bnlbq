@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://narsaabg.github.io/csb-3bnlbq/static/css/main.9b0e6250.chunk.css",
-    "main.js": "https://narsaabg.github.io/csb-3bnlbq/static/js/main.9b1c6e6b.chunk.js",
-    "main.js.map": "https://narsaabg.github.io/csb-3bnlbq/static/js/main.9b1c6e6b.chunk.js.map",
+    "main.css": "https://narsaabg.github.io/csb-3bnlbq/static/css/main.e230144b.chunk.css",
+    "main.js": "https://narsaabg.github.io/csb-3bnlbq/static/js/main.36cf86aa.chunk.js",
+    "main.js.map": "https://narsaabg.github.io/csb-3bnlbq/static/js/main.36cf86aa.chunk.js.map",
     "runtime-main.js": "https://narsaabg.github.io/csb-3bnlbq/static/js/runtime-main.09078462.js",
     "runtime-main.js.map": "https://narsaabg.github.io/csb-3bnlbq/static/js/runtime-main.09078462.js.map",
     "static/js/2.83fde9ee.chunk.js": "https://narsaabg.github.io/csb-3bnlbq/static/js/2.83fde9ee.chunk.js",
     "static/js/2.83fde9ee.chunk.js.map": "https://narsaabg.github.io/csb-3bnlbq/static/js/2.83fde9ee.chunk.js.map",
     "index.html": "https://narsaabg.github.io/csb-3bnlbq/index.html",
-    "static/css/main.9b0e6250.chunk.css.map": "https://narsaabg.github.io/csb-3bnlbq/static/css/main.9b0e6250.chunk.css.map",
+    "static/css/main.e230144b.chunk.css.map": "https://narsaabg.github.io/csb-3bnlbq/static/css/main.e230144b.chunk.css.map",
     "static/js/2.83fde9ee.chunk.js.LICENSE.txt": "https://narsaabg.github.io/csb-3bnlbq/static/js/2.83fde9ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.09078462.js",
     "static/js/2.83fde9ee.chunk.js",
-    "static/css/main.9b0e6250.chunk.css",
-    "static/js/main.9b1c6e6b.chunk.js"
+    "static/css/main.e230144b.chunk.css",
+    "static/js/main.36cf86aa.chunk.js"
   ]
 }
